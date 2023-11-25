@@ -14,7 +14,7 @@ A sample Cake Shop Website built with ASP.NET Core (Multi-Page Application)
 - Responsive UI
 - Repository Pattern 
 - Application Architecture is decoupled form ORM (Entity Framework)
-
+# Biprajit Palit (NIT Agartala) Big Fan
 ## Framework / Library 
 - ASP.NET Core 2.0 *(Backend)*
 - Razor View Engine *(For generating markup)*
